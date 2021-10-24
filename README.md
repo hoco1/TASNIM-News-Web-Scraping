@@ -1,8 +1,8 @@
-#TASNIM News Web Scraping
+# TASNIM News Web Scraping
 Scarping TASNIM website and show in GUI application
-##Scarping
+## Scarping
 requests and BeautifulSoup library
-##GUI Application
+## GUI Application
 tkinter Library
-##Features :
+## Features :
 select date, select each category, Follow link, show title
