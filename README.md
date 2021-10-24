@@ -6,3 +6,5 @@ requests and BeautifulSoup library
 tkinter Library
 ## Features :
 select date, select each category, Follow link, show title
+# Demo
+![Project Demo](https://github.com/hoco1/TASNIM-News-Web-Scraping/blob/master/img/pro.gif)
